@@ -21,6 +21,8 @@
     <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square" height="20" alt="Gitter chat">
   </a>
 
+
+This is an update of mine the date is 23/10/2025
   <!-- Second row: -->
   <br>
   <a href="https://github.com/TheAlgorithms/Python/actions">
